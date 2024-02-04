@@ -7,7 +7,7 @@ std::string obfuscateSensitiveInfo(const std::string& sensitiveInfo) {
     // This is just a simple example for demonstration purposes
     return "********";  // Replace with your obfuscation or encryption logic
 }
-// this is the code manage by asharma
+
 // Function to log sensitive information securely
 void logSensitiveInfo(const std::string& sensitiveInfo) {
     // Obfuscate or encrypt sensitive information before logging
